@@ -40,4 +40,4 @@ Este projeto implementa um **controle de servomotor** utilizando um **Raspberry 
 Este projeto demonstra um controle eficiente de servomotor utilizando PWM no Raspberry Pi Pico W. Pode ser usado para aplicações como robótica, automação e aprendizado de eletrônica. 🤖⚙️
 
 ## Link do Vídeo
-
+https://youtu.be/pQ2Wtm5FJxo
